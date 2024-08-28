@@ -1,1 +1,2 @@
 # timeis
+Simply clock app
