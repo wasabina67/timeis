@@ -1,8 +1,9 @@
+import './App.css';
 import Time from './Time';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Time />
     </div>
   );
