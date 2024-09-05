@@ -1,2 +1,2 @@
 # timeis
-Simply clock app
+A simple clock app
