@@ -1,2 +1,2 @@
 # timeis
-A simple clock app
+A simple clock app ⏰
